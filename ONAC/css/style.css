@@ -179,10 +179,9 @@
 }
 
 .page-header {
-    padding-top: 12rem;
+    padding-top: 1rem;
     padding-bottom: 6rem;
-    background: linear-gradient(rgba(0, 29, 35, .8), rgba(0, 29, 35, .8)), url(../img/carousel-1.jpg) center center no-repeat;
-    background-size: cover;
+    background: linear-gradient(rgba(0, 29, 35, .8), rgba(0, 29, 35, .8));
 }
 
 .page-header .breadcrumb-item+.breadcrumb-item::before {
