@@ -179,9 +179,28 @@
 }
 
 .page-header {
-    padding-top: 1rem;
+    padding-top: 12rem;
     padding-bottom: 6rem;
-    background: linear-gradient(rgba(0, 29, 35, .8), rgba(0, 29, 35, .8));
+    background: linear-gradient(rgba(0, 29, 35, .8), rgba(0, 29, 35, .8)), url(../img/photo-1.jpg) center center no-repeat;
+    background-size: cover;
+}
+.page-header1 {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    background: linear-gradient(rgba(0, 29, 35, .8), rgba(0, 29, 35, .8)), url(../img/Photo-11.jpg) center center no-repeat;
+    background-size: cover;
+}
+.page-header2 {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    background: linear-gradient(rgba(0, 29, 35, .8), rgba(0, 29, 35, .8)), url(../img/Photo-6.jpg) center center no-repeat;
+    background-size: cover;
+}
+.page-header3 {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: linear-gradient(rgba(0, 29, 35, .8), rgba(0, 29, 35, .8)), url(../img/photo-8.jpg) center center no-repeat;
+    background-size: cover;
 }
 
 .page-header .breadcrumb-item+.breadcrumb-item::before {
@@ -386,6 +405,7 @@
     color: var(--primary);
     font-size: 45px;
     transition: .5s;
+    margin-top: 200px;
 }
 
 .testimonial-carousel .owl-nav .owl-prev:hover,

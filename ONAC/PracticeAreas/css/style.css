@@ -178,9 +178,40 @@
     }
 }
 
-.page-header {
+.page-header1 {
     padding-top: 12rem;
     padding-bottom: 6rem;
+    background: linear-gradient(rgba(0, 29, 35, .8), rgba(0, 29, 35, .8)), url(../img/photo-16.jpg) center center no-repeat;
+    background-size: cover;
+}
+.page-header2 {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: linear-gradient(rgba(0, 29, 35, .8), rgba(0, 29, 35, .8)), url(../img/photo-6.jpg) center center no-repeat;
+    background-size: cover;
+}
+.page-header3 {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: linear-gradient(rgba(0, 29, 35, .8), rgba(0, 29, 35, .8)), url(../img/Photo-18.jpg) center center no-repeat;
+    background-size: cover;
+}
+.page-header4 {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: linear-gradient(rgba(0, 29, 35, .8), rgba(0, 29, 35, .8)), url(../img/Photo-26.jpg) center center no-repeat;
+    background-size: cover;
+}
+.page-header5 {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: linear-gradient(rgba(0, 29, 35, .8), rgba(0, 29, 35, .8)), url(../img/photo-5.jpg) center center no-repeat;
+    background-size: cover;
+}
+.page-header6 {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: linear-gradient(rgba(0, 29, 35, .8), rgba(0, 29, 35, .8)), url(../img/photo-21.jpg) center center no-repeat;
     background-size: cover;
 }
 
